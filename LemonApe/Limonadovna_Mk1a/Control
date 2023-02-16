@@ -1,0 +1,9 @@
+How to operate:
+---------------
+
+'A' - Start filling cycle
+'B' - Stop filling
+'C' - Setup of flowmeter pulses/liter (base is 450 pulses/1 liter)
+'D' - ReSet the flowmeter constant to 450 p/l,DesiredVolume to 500ml and 225 pulses (pulses is used to count volume), Zeroing of Counter
+'*' - Setting of DesiredVolume in mililitres (default = 500ml)
+'#' - Confirmation of input

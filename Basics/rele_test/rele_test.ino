@@ -1,0 +1,1 @@
+#define RELE 5void setup() {pinMode(RELE, OUTPUT);pinMode(LED_BUILTIN, OUTPUT);}void loop() {digitalWrite(RELE, HIGH); // relé rozepnutodigitalWrite(LED_BUILTIN, HIGH); delay(5000);digitalWrite(RELE, LOW); // relé sepnutodigitalWrite(LED_BUILTIN, LOW); delay(5000);}/**/
